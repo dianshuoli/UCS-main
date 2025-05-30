@@ -1,0 +1,17 @@
+{
+"./data_demo/images/1_A.png": "./data_demo/images/1_A.png",
+"./data_demo/images/2_A.png": "./data_demo/images/2_A.png",
+"./data_demo/images/3_A.png": "./data_demo/images/3_A.png",
+"./data_demo/images/4_A.png": "./data_demo/images/4_A.png",
+"./data_demo/images/CFD_001.jpg": "./data_demo/images/CFD_001.jpg",
+"./data_demo/images/CFD_007.jpg": "./data_demo/images/CFD_007.jpg",
+"./data_demo/images/CRACK500_20160222_081111_641_361.jpg": "./data_demo/images/CRACK500_20160222_081111_641_361.jpg",
+"./data_demo/images/CRACK500_20160222_081908_641_721.jpg": "./data_demo/images/CRACK500_20160222_081908_641_721.jpg",
+"./data_demo/images/leaf_72.jpg": "./data_demo/images/leaf_72.jpg",
+"./data_demo/images/soil_35.jpg": "./data_demo/images/soil_35.jpg",
+"./data_demo/images/soil_37.jpg": "./data_demo/images/soil_37.jpg",
+"./data_demo/images/soil_46.jpg": "./data_demo/images/soil_46.jpg",
+"./data_demo/images/soil_5.jpg": "./data_demo/images/soil_5.jpg",
+"./data_demo/images/soil_57.jpg": "./data_demo/images/soil_57.jpg",
+"./data_demo/images/wire_9.jpg": "./data_demo/images/wire_9.jpg"
+}
